@@ -325,9 +325,7 @@ Test plan, one `describe` block per area:
 - [x] Check Prebid.js issues for earlier proposals: found [#15719](https://github.com/prebid/Prebid.js/issues/15719)
 - [x] Share the spec on #15719 and get maintainer feedback
 - [ ] Settle the open questions on #15719
-- [ ] Collect feedback from publishers and buyers
-- [ ] Find one SSP partner to add `ext.prebid.deal.takeover` to its takeover deals
-- [ ] Build a prototype on a fork and test it with one publisher and one takeover deal
+- [ ] Build the module on a fork of Prebid.js, tested with mock takeover bids
 - [ ] Submit upstream to Prebid.js, with tests and a docs page on docs.prebid.org
 
 Interested in helping, as a publisher, SSP or buyer? Open an issue in this repo.
